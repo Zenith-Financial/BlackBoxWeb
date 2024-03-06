@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+3D&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Rock+3D&display=swap");
+
+body {
+    background-color: black;
+    color: #fff9e7;
+    
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5 {
+    
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+.header {
+    
+    background-color: black;
+    align-items: center;
+
+}
+
+.whiteBar {
+    padding: 20px;
+    background-color: #fff3cf;
+    
+}
+
+.logo{
+    text-align:center;
+    font-size: 250%;
+    font-family: "Rock 3D", system-ui;
+}
+
+
+/* top of header stats section */
+
+.headerStats{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.attentionGrab {
+    width: 50%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:5%;
+}
+
+.statCol1 {
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:5%;
+}
+
+.statCol2 {
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:5%;
+}
